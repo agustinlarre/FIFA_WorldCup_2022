@@ -1,0 +1,81 @@
+﻿@using Microsoft.AspNetCore.Http
+@model IEnumerable<Dominio.Partido>
+
+<!--Vista que muestra la lista de partidos-->
+<!--En la vista se diferencian los que pueden ver el operador y aquellos de los periodistas-->
+<h1>Lista de Partidos</h1>
+@if (Context.Session.GetString("Tipo") == "Operador" || (Context.Session.GetString("Tipo") == "Periodista" && ViewBag.Contador > 0))
+{
+    <table class="table">
+        <tr>
+            <th>Fecha del partido</th>
+            <th>Selección 1</th>
+            <th>Selección 2</th>
+            @if (Context.Session.GetString("Tipo") == "Operador")
+            {
+                <th>Cerrar Partido</th>
+
+            }
+            else
+            {
+                <th>Realizar reseña</th>
+            }
+        </tr>
+        @if (Context.Session.GetString("Tipo") == "Operador")
+        {
+            @foreach (var partido in Model)
+            {
+                <tr>
+                    <td>@partido.FechaYhoraDelPartido</td>
+                    <td>@partido.Seleccion1.UnPais.Nombre</td>
+                    <td>@partido.Seleccion2.UnPais.Nombre</td>
+                    <td>
+                        @if (partido.Finalizado == false)
+                        {
+                            if (partido.GetTipo() == "Eliminatoria")
+                            {
+                                @Html.ActionLink("Cerrar Partido", "Close", "Eliminatoria", new { partidoId = partido.Id })
+                            }
+                            else
+                            {
+                                @Html.ActionLink("Cerrar Partido", "Close", "Grupos", new { partidoId = partido.Id })
+                            }
+
+                        }
+                        else
+                        {
+                            <span>Partido cerrado</span>
+                        }
+                    </td>
+                </tr>
+            }
+        }
+        else if (Context.Session.GetString("Tipo") == "Periodista")
+        {
+            @foreach (var partido in Model)
+            {
+                @if (partido.Finalizado == true)
+                {
+                    <tr>
+                        <td>@partido.FechaYhoraDelPartido</td>
+                        <td>@partido.Seleccion1.UnPais.Nombre</td>
+                        <td>@partido.Seleccion2.UnPais.Nombre</td>
+                        <td>@Html.ActionLink("Realizar reseña", "Create", "Resenia", new { partidoId = partido.Id })</td>
+                    </tr>
+                }
+            }
+        }
+    </table>
+}
+else
+{
+    <p><strong>No hay partidos finalizados</strong></p>
+}
+<!--Boton para volver al inicio-->
+<div>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Volver</a>
+</div>
+
+
+
+

@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Dominio.Seleccion>
+
+<!--Vista que muestra la seleccion/es mas goleadora/s-->
+<h1>Seleccion/es Goleadora/s del mundial</h1>
+
+<dl>
+    <dt><h2>Nombre: </h2> </dt>
+    <dd>
+        @foreach (var Seleccion in Model)
+        {
+
+            <h3>@Seleccion.UnPais.Nombre</h3>
+            <br />
+        }
+    </dd>
+</dl>
+<!--Boton para volver al inicio-->
+<div>
+    <a asp-action="Estadisticas" asp-controller="Operador" class="btn btn-primary">Volver</a>
+</div>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwjsVP/CA3sbmrwCIN4k+dzjQq1XKDLDIs6JaLzTjesWBnLe3HF5LAqOUa8Ubz1963yRqZV06gzwPLn38xowTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\OneDrive\\Documentos\\WorkSpace\\WorldCup\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Dominio.Periodista>
+
+<!--Vista que lista los periodistas con sus correspondientes reseñás-->
+<h1>Lista de periodistas</h1>
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Email</th>
+        <th>Reseñas</th>
+    </tr>
+    @foreach (var per in Model)
+    {
+            <tr>
+                <td>@per.Id</td>
+                <td>@per.Nombre</td>
+                <td>@per.Apellido</td>
+                <td>@per.Email</td>
+                <td>@Html.ActionLink("Ver reseñas", "FiltroPeriodista", "Resenia", new { id = per.Id })</td>
+            </tr>
+    }
+</table>
+<br />
+<!--Boton para volver a al inicio-->
+<div>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Volver</a>
+</div>
+

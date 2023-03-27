@@ -1,0 +1,63 @@
+﻿@model Dominio.FaseDeGrupos
+
+<!--Vista para cerrar partidos de grupos-->
+<h1>Cerrar partido</h1>
+
+<h2>@Model.Seleccion1.UnPais.Nombre vs @Model.Seleccion2.UnPais.Nombre</h2>
+<br />
+
+<!--Form para confirmar finalización-->
+<form method="post">
+    Confirmar finalización:
+    <input type="text" asp-for="Id" hidden />
+    <input type="checkbox" value="true" name="chequeado" />
+    <br /><br />
+    <input type="submit" value="Aceptar" class="btn btn-primary" />
+</form>
+<br />
+<!--Boton para volver a la lista de partidos-->
+<div>
+    <a asp-action="Index" asp-controller="Partido" class="btn btn-primary">Volver</a>
+</div>
+<br />
+<!--Mensaje al usuario en respuesta a su interaccion con la interfaz-->
+<strong>@ViewBag.Msg</strong>
+<br />
+<br />
+
+<!--Datos mostrados luego de cerrado el partido-->
+@if (Model.Finalizado)
+{
+    <h2>Datos del partido</h2>
+    <dl>
+        <dt>Fase</dt>
+        <dd>Grupos</dd>
+        <dt>Fecha del partido</dt>
+        <dd>@Model.FechaYhoraDelPartido</dd>
+        <dt>Detalles de @Model.Seleccion1.UnPais.Nombre</dt>
+        <dd>
+            <strong>Nombre: </strong><br />
+            @Model.Seleccion1.UnPais.Nombre<br />
+            <strong>Goles: </strong><br />
+            @Model.StringGetGoles(Model.Seleccion1)<br />
+            <strong>Amarillas: </strong><br />
+            @Model.GetAmarillas(Model.Seleccion1) <br />
+            <strong>Rojas: </strong><br />
+            @Model.GetRojas(Model.Seleccion1)
+        </dd>
+        <dt>Detalles de @Model.Seleccion2.UnPais.Nombre</dt>
+        <dd>
+            <strong>Nombre: </strong><br />
+            @Model.Seleccion2.UnPais.Nombre<br />
+            <strong>Goles: </strong><br />
+            @Model.StringGetGoles(Model.Seleccion2)<br />
+            <strong>Amarillas: </strong><br />
+            @Model.GetAmarillas(Model.Seleccion2) <br />
+            <strong>Rojas: </strong><br />
+            @Model.GetRojas(Model.Seleccion2)
+        </dd>
+        <dt>Resultado del partido</dt>
+        <dd>@Model.CalcularResultado()</dd>
+    </dl>
+
+}

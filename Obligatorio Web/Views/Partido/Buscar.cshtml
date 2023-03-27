@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Dominio.Partido>
+<!--Vista que permite buscar partidos entre dos fechas-->
+
+<!--Form que permite seleccionar entre dos fechas-->
+<h2>Buscador según fecha de partidos finalizados</h2>
+<form method="post">
+    Fecha 1: <br />
+    <input type="date" name="fecha1" /><br />
+    Fecha 2: <br />
+    <input type="date" name="fecha2" /><br /><br />
+    <input type="submit" class="btn btn-primary" value="Buscar" />
+</form>
+<br />
+
+<!--Tabla que muestra datos de los partidos finalizados encontrados-->
+@if (Model != null)
+    {
+        if (Model.Count() < 1)
+        {
+            <p><strong>No hay partidos que figuren dentro de las fechas marcadas</strong></p>
+        }
+        else
+        {
+        <table class="table">
+            <tr>
+                <th>Fecha del partido</th>
+                <th>Selección 1</th>
+                <th>Selección 2</th>
+                <th>Goles selección 1</th>
+                <th>Goles selección 2</th>
+                <th>Tarjetas amarillas selección 1</th>
+                <th>Tarjetas amarillas selección 2</th>
+                <th>Tarjetas Rojas selección 1</th>
+                <th>Tarjetas Rojas selección 2</th>
+            </tr>
+            @foreach (var partido in Model)
+                {
+                <tr>
+                    <td>@partido.FechaYhoraDelPartido</td>
+                    <td>@partido.Seleccion1.UnPais.Nombre</td>
+                    <td>@partido.Seleccion2.UnPais.Nombre</td>
+                    <td>@partido.StringGetGoles(partido.Seleccion1)</td>
+                    <td>@partido.StringGetGoles(partido.Seleccion2)</td>
+                    <td>@partido.GetAmarillas(partido.Seleccion1)</td>
+                    <td>@partido.GetAmarillas(partido.Seleccion2)</td>
+                    <td>@partido.GetRojas(partido.Seleccion1)</td>
+                    <td>@partido.GetRojas(partido.Seleccion2)</td>
+                </tr>
+                }
+        </table>
+        }
+    }
+    else
+    {
+        <p><strong>Para buscar los partidos dentro de las fechas, debe ingresarlas en el formulario</strong></p>
+    }
+<!--Boton para volver al inicio-->
+<div>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Volver</a>
+</div>

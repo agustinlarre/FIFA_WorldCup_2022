@@ -1,0 +1,18 @@
+﻿@model Dominio.Usuario
+
+<h1>Cerrar sesión</h1>
+
+<!--Vista y form que permite cerrar sesión de los usuarios registrados-->
+<form method="post">
+    Confirmar cierre de sesión:
+    <input type="checkbox" value="true" name="CierreChequeado" />
+    <br /><br />
+    <input type="submit" value="Aceptar" class="btn btn-primary" />
+</form>
+<br />
+<div>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Volver</a>
+</div>
+<br />
+<!--Mensaje en respuesta a la interaccion del usuario con la interfaz-->
+<strong>@ViewBag.msg</strong>

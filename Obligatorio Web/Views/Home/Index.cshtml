@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!--Vista de inicio para todos los usuarios-->
+<div class="text-center">
+    <br />
+    <h1 class="display-4">Obligatorio Programacion 2</h1><br />
+    <p>Estudiantes: Agustin Larre Borges (289474) y Marcelo Gestido (289536)</p>
+    <p>2da Entrega: Desarrollo de una aplicacion a través de Web ASP.NET Core 3.1 MVC</p>
+    <br />
+    <hr />
+    <br />
+    <!--Vista de inicio para usuarios registrados(if) y para los anonimos (else)-->
+    @if (ViewBag.User != null)
+    {
+         <h2>Bienvenido @ViewBag.User.Nombre @ViewBag.User.Apellido</h2><br />
+         <p><strong>Email: </strong> @ViewBag.User.Email</p>
+         <p><strong>Rol: </strong>@ViewBag.User.GetTipo()</p>
+
+    }
+    else
+    {
+        <h2>Bienvenido Anónimo</h2><br />
+        <p>Usted se encuentra en un programa de reseñas de partidos del munidal de Catar</p>
+        <p>Si desea comenzar a utilizar las funcionalidades, registrese o inicie sesión</p>
+    }
+</div>
+
+

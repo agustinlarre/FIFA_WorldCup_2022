@@ -1,0 +1,22 @@
+﻿<!--Vista que permite realizar una reseña por parte de los periodistas-->
+
+<h1>Crear reseña</h1>
+
+<h2>Partido: @ViewBag.ElPartido.Seleccion1.UnPais.Nombre vs @ViewBag.ElPartido.Seleccion2.UnPais.Nombre</h2>
+    <!--Form para ingresar los datos-->
+    <form method="post">
+        Título: <br />
+        <input type="text" Name="unTitulo" placeholder="Ingrese su título aquí" /><br /><br />
+        Contenido: <br />
+        <textarea name="unContenido" placeholder="Ingrese su contenido aquí" cols="60" rows="10"></textarea><br /><br />
+        <input type="submit" class="btn btn-primary" value="Aceptar" />
+    </form>
+
+<br />
+<!--Boton para volver a la lista de partidos-->
+<div>
+    <a asp-action="Index" asp-controller="Partido" class="btn btn-primary">Volver</a>
+</div>
+<br />
+<!--Mensaje de respuesta frente al ingreso de datos-->
+<strong>@ViewBag.Msg</strong>

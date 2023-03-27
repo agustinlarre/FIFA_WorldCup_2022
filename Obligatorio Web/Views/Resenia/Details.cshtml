@@ -1,0 +1,49 @@
+﻿@model Dominio.Resenia
+
+<!--Vista que permite ver los detalles de una reseña del periodista logueado-->
+<h1>Detalles</h1>
+
+<dl>
+    <dt>
+        Id
+    </dt>
+    <dd>
+        @Model.Id
+    </dd>
+
+    <dt>
+        Nombre completo
+    </dt>
+    <dd>
+        @Model.UnPeriodista.Nombre @Model.UnPeriodista.Apellido
+    </dd>
+
+    <dt>
+        Fecha
+    </dt>
+    <dd>
+        @Model.Fecha
+    </dd>
+    <dt>
+        Partido
+    </dt>
+    <dd>
+        @Model.UnPartido.Seleccion1.UnPais.Nombre vs @Model.UnPartido.Seleccion2.UnPais.Nombre
+    </dd>
+    <dt>
+        Título
+    </dt>
+    <dd>
+        @Model.Titulo
+    </dd>
+    <dt>
+        Contenido
+    </dt>
+    <dd>
+        @Model.Contenido
+    </dd>
+</dl>
+<!--Boton para volver a la lista de reseñas del periodista logueado-->
+<div>
+    <a asp-action="Index" asp-controller="Resenia" class="btn btn-primary">Volver</a>
+</div>

@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Dominio.Seleccion>
+
+        <!--Vista que muestra la lista de selecciones con todos sus jugadores-->
+        <h1>Lista de selecciones</h1>
+        <table class="table">
+            <tr>
+                <th>Pais</th>
+                <th>Jugadores</th>
+            </tr>
+            @foreach (var seleccion in Model)
+            {
+                <tr>
+                    <td>@seleccion.UnPais.Nombre</td>
+                    <td>
+                        @foreach (var jug in seleccion.GetJugadores())
+                        {
+                            @jug.NombreCompleto <strong> / </strong>
+                        }
+                    </td>
+                </tr>
+            }
+        </table>
+        <!--Boton para volver al inicio-->
+        <div>
+            <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Volver</a>
+        </div>
+
+

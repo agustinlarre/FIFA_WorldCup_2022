@@ -1,0 +1,140 @@
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-4/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio Programación/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.AssemblyReference.cache
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/ORT/ORT - Analista TI/Segundo semestre/Programación 2/Obligatorio/Obligatorio2 - Marcelo Gestido - Agustin Larre Borges/Obligatorio 2 programacion/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\Obligatorio2 - Marcelo Gestido - Agustin Larre Borges\Obligatorio 2 programacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Alex\OneDrive\Documentos\WorkSpace\WorldCup\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

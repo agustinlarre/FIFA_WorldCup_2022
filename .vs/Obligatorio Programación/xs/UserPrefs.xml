@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F5D8A482-C26D-451C-A504-BC252151939F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Obligatorio_220Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Aplicación_220de_220sereñas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dominio/Sistema.cs">
+    <Files>
+      <File FileName="Dominio/Sistema.cs" Line="974" Column="1" />
+      <File FileName="Dominio/Resenia.cs" Line="21" Column="16" />
+      <File FileName="Dominio/Partido.cs" Line="42" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Obligatorio Programación" expanded="True">
+            <Node name="Dominio" expanded="True">
+              <Node name="Partido.cs" selected="True" />
+            </Node>
+            <Node name="Obligatorio Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Eliminatoria" expanded="True" />
+                <Node name="Grupos" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Dominio.Resenia>
+
+<!--Vista que muestra las reseñas que realizó el periodista que seleccione el operador-->
+<h1>Lista de reseñas del periodista @ViewBag.nombre</h1>
+
+@if (Model.Count() > 0)
+{
+    foreach (var resenia in Model)
+    {
+        <dl>
+            <dt>
+                Nombre completo del periodista
+            </dt>
+            <dd>
+                @resenia.UnPeriodista.Nombre @resenia.UnPeriodista.Apellido
+            </dd>
+            <dt>
+                Fecha
+            </dt>
+            <dd>
+                @resenia.Fecha
+            </dd>
+            <dt>
+                Partido
+            </dt>
+            <dd>
+                @resenia.UnPartido.Seleccion1.UnPais.Nombre vs @resenia.UnPartido.Seleccion2.UnPais.Nombre <br />
+                Partido de @resenia.UnPartido.GetTipo() 
+                @if (resenia.UnPartido.GetTipo() == "Grupos")
+                {
+                <p>Nombre del grupo: @resenia.ObtenerGrupoDelPartido(resenia)</p>
+                }
+            </dd>
+            <dt>
+                Título reseña
+            </dt>
+            <dd>
+                @resenia.Titulo
+            </dd>
+            <dt>
+                Contenido reseña
+            </dt>
+            <dd>
+                @resenia.Contenido
+            </dd>
+        </dl>
+        <hr />
+        }
+    }
+else
+   {
+      <p><strong>El periodista no ha realizado ninguna reseña</strong></p>
+   }
+
+<!--Boton para volver a la lista-->
+<div>
+    <a asp-action="Index" asp-controller="Periodista" class="btn btn-primary">Volver</a>
+</div>
+
+

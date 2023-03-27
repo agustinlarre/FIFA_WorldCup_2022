@@ -1,0 +1,17 @@
+﻿<h1>Iniciar sesión</h1>
+
+<!--Vista y form que permite ingresar a la aplicación-->
+<form method="post">
+    Nombre de Usuario: <br />
+    <input type="email" name="emailUsuario" /><br /><br />
+    Contraseña: <br />
+    <input type="password" name="passwordUsuario" /><br /><br />
+    <input type="submit" value="Aceptar" class="btn btn-primary" />
+</form>
+<br />
+<div>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Volver</a>
+</div>
+<br />
+<!--Mensaje en respuesta al usuario de su interaccion con la interfaz-->
+<strong>@ViewBag.Msg</strong>

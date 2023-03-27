@@ -1,0 +1,26 @@
+﻿@model Dominio.Periodista
+<!--Vista que permite registrar un periodista-->
+
+<!--Form para ingresar los datos-->
+<h1>Registrarme como Periodista</h1>
+<form method="post">
+    Nombre: <br />
+    <input type="text" asp-for="Nombre" /> <br /><br />
+    Apellido: <br />
+    <input type="text" asp-for="Apellido" /> <br /><br />
+    Email: <br />
+    <input type="email" asp-for="Email" /> <br /><br />
+    Contraseña: <br />
+    <input type="password" asp-for="Password" /> <br /> <br />
+    <input type="submit" value="Registrarme" class="btn btn-primary" />
+</form>
+<br />
+<!--Boton para volver al inicio-->
+<div>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Volver</a>
+</div>
+<br />
+<!--Mensaje en respuesta a la interaccion del usuario con la interfaz-->
+<div>
+    <strong>@ViewBag.msg</strong>
+</div>

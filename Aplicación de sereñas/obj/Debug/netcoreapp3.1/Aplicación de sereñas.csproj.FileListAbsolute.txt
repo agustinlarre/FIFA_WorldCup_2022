@@ -1,0 +1,136 @@
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.deps.json
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.json
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.dev.json
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.AssemblyReference.cache
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfoInputs.cache
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfo.cs
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CoreCompileInputs.cache
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CopyComplete
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+/Users/agustin/Downloads/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.genruntimeconfig.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.exe
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.deps.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.dev.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CopyComplete
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.genruntimeconfig.cache
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.deps.json
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.json
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.dev.json
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.AssemblyReference.cache
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfoInputs.cache
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfo.cs
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CoreCompileInputs.cache
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CopyComplete
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+/Users/agustin/Downloads/Obligatorio-2-2/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.genruntimeconfig.cache
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.deps.json
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.json
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.dev.json
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.AssemblyReference.cache
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfoInputs.cache
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfo.cs
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CoreCompileInputs.cache
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CopyComplete
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+/Users/agustin/Downloads/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.genruntimeconfig.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.exe
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.deps.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.dev.json
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.dll
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.pdb
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CopyComplete
+C:/Users/Usuario/Desktop/Facultades/ORt/1er año/2do semestre/Programacion 2/Obligatorio/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.genruntimeconfig.cache
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.deps.json
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.json
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.runtimeconfig.dev.json
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.AssemblyReference.cache
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfoInputs.cache
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.AssemblyInfo.cs
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CoreCompileInputs.cache
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.csproj.CopyComplete
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.dll
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.pdb
+/Users/agustin/Downloads/Obligatorio-4/Obligatorio Programación/Aplicación de sereñas/obj/Debug/netcoreapp3.1/Aplicación de sereñas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.exe
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.deps.json
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.runtimeconfig.json
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.dll
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.pdb
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.dll
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.pdb
+C:\Users\Usuario\Desktop\Facultades\ORt\1er año\2do semestre\Programacion 2\Obligatorio-4\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.exe
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.deps.json
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.runtimeconfig.json
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.dll
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Aplicación de sereñas.pdb
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.dll
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.pdb
+C:\Users\Usuario\Desktop\Obligatorio - Marcelo Gestido - Agustin Larre Borges\Obligatorio Programación\Aplicación de sereñas\obj\Debug\netcoreapp3.1\Aplicación de sereñas.genruntimeconfig.cache

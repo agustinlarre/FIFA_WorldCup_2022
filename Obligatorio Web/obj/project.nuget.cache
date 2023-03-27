@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4gzHmM6wtDXCIL5Kngxcin7VC+RJo/HozeBtQ+ss2yDl2usliwfzJq3tMaXw22gK+TOV4z6eYxSnkEhrGEzEuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\OneDrive\\Documentos\\WorkSpace\\WorldCup\\Obligatorio Web\\Obligatorio Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

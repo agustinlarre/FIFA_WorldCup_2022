@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Dominio.Resenia>
+
+<!--Vista que muestra los partidos con tarjeta roja reseñados por un determinado periodista buscado-->
+<h1>Partidos reseñados con una roja</h1>
+<br />
+
+<!--Form para buscar el periodista-->
+<p>Ingrese email de un periodista</p>
+<form method="post">
+    <input type="email" name="emailPeriodista" /><br /><br />
+    <input type="submit" value="Buscar" class="btn btn-primary" />
+</form>
+<br />
+<!--Boton para volver a la vista de estadisticas-->
+<div>
+    <a asp-action="Estadisticas" asp-controller="Operador" class="btn btn-primary">Volver</a>
+</div>
+<br />
+<!--Datos mostrados-->
+@if (Model != null)
+{
+    foreach (var resenia in Model)
+    {
+        <dl>
+            <dt>
+                Nombre completo del periodista
+            </dt>
+            <dd>
+                @resenia.UnPeriodista.Nombre @resenia.UnPeriodista.Apellido
+            </dd>
+            <dt>
+                Fecha
+            </dt>
+            <dd>
+                @resenia.Fecha
+            </dd>
+            <dt>
+                Partido
+            </dt>
+            <dd>
+                @resenia.UnPartido.Seleccion1.UnPais.Nombre vs @resenia.UnPartido.Seleccion2.UnPais.Nombre
+            </dd>
+            <dt>
+                Título reseña
+            </dt>
+            <dd>
+                @resenia.Titulo
+            </dd>
+            <dt>
+                Contenido reseña
+            </dt>
+            <dd>
+                @resenia.Contenido
+            </dd>
+        </dl>
+        <hr />
+    }
+
+}
+<!--Mensaje de respuesta frente a la interaccion del usuario-->
+@ViewBag.msg
+

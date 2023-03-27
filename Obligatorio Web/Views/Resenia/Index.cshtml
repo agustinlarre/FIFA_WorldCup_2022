@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Dominio.Resenia>
+
+<!--Vista que muestra la lista de reseñas del periodista logueado-->
+<h1>Lista de Resenias</h1>
+
+@if (ViewBag.ListaVacia)
+{
+    <p><strong>La lista de reseñas se encuentra vacía</strong></p>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th>ID</th>
+            <th>Periodista</th>
+            <th>Fecha</th>
+            <th>Partido</th>
+            <th>Titulo</th>
+            <th>Detalles</th>
+        </tr>
+        @foreach (var r in Model)
+        {
+            if (r.UnPeriodista == ViewBag.User)
+            {
+                <tr>
+                    <td>@r.Id</td>
+                    <td>@r.UnPeriodista.Nombre</td>
+                    <td>@r.Fecha</td>
+                    <td>@r.UnPartido.Seleccion1.UnPais.Nombre <strong>vs</strong> @r.UnPartido.Seleccion2.UnPais.Nombre</td>
+                    <td>@r.Titulo</td>
+                    <td>@Html.ActionLink("Ver detalles", "Details", new { id = r.Id })</td>
+                </tr>
+            }
+        }
+    </table>
+}
+    <!--Botón para volver a la lista de periodistas con sus correspondientes reseñas-->
+    <div>
+        <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Volver</a>
+    </div>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lSNTQcOESKhq4Yqt+wCMRUtqqLHUd4BPtA3cNN/s0dFZcrqzVWuOV2egZQKXUi3gC9pbWbICB0ymeWg5cm7rBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\OneDrive\\Documentos\\WorkSpace\\WorldCup\\Aplicación de sereñas\\Aplicación de sereñas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
